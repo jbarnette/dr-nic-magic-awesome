@@ -4,7 +4,7 @@ Magically fix your projects overnight!
 
 == Installation
 
-Add drnic to your Github project.
+Fork <tt>jbarnette/dr-nic-magic-awesome</tt> on Github.
   
 == Usage
 
