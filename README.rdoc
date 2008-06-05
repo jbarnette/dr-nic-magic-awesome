@@ -1,0 +1,16 @@
+= Dr. Nic's Magic Awesome
+
+Magically fix your projects overnight!
+
+== Installation
+
+Add drnic to your Github project.
+  
+== Usage
+
+Get a good night's sleep. Dr. Nic will swoop in from the Southern
+hemisphere and make your codes perfect.
+
+== License
+
+Dr. Nic has probably copyrighted himself.
